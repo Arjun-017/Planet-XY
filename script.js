@@ -17,7 +17,7 @@ Y.onclick = function(){
 	banner.innerHTML = 'Planet-Y'
 }
 
-var starNumber = 100
+var starNumber = 20
 var star = 0
 var x = 0
 var y = 0
