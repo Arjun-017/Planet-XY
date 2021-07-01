@@ -184,7 +184,7 @@ a:active, a:hover{
 }
 @media only screen and (max-width: 460px){
 	.splash-banner{
-		font-size: min(10rem,25vw);
+		font-size: min(7rem,20vw);
 	}
 	.desc-container{
 		position: absolute;
